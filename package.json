@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-starter",
+  "version": "1.0.1",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.5.1",
+    "@next/mdx": "^9.1.1",
+    "next": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-breakpoints": "^9.0.8",
+    "styled-components": "^5.2.1",
+    "styled-normalize": "^8.0.7"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
