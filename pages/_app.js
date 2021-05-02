@@ -1,6 +1,7 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 import { Normalize } from 'styled-normalize';
 import { theme } from '../theme/theme';
+
 const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;

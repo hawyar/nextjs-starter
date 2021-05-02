@@ -6,6 +6,7 @@ const Layout = ({ children }) => {
 };
 
 const Wrapper = styled.div`
-  padding: 0 12rem;
+  text-align: center;
 `;
+
 export default Layout;
